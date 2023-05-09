@@ -1,7 +1,11 @@
 <br/>
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=Welcome%20to%20Jeeun's%20Github&fontSize=40&animation=fadeIn)
+<div align='center'>
+
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=Welcome%20to%20Jeeun's%20Github&fontSize=40&animation=fadeIn)
+  
+</div>
 <br/>
 <br/>
 
@@ -48,8 +52,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeun99&hide=jupyter%20Notebook&layout=compact)](https://github.com/jeeun99/github-readme-stats)
 
 </div>
-
-<style type='text/css'>
-  [class*="title"] { font-weight: bold; font-size: 16px; }
-  [class*="h1Title"] { font-size: 18px;}
-</style>
